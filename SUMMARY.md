@@ -4,10 +4,8 @@
 
 ## ☎ Suporte
 
-* [⛩ Jujutsu Eden](suporte/jujutsu-eden/README.md)
-  * [Vision](suporte/jujutsu-eden/vision.md)
-  * [Mission](suporte/jujutsu-eden/mission.md)
-  * [Focus](suporte/jujutsu-eden/focus.md)
+* [⛩ Jujutsu Eden](suporte/jujutsu-eden.md)
+* [🥷 NarutoC Eden](suporte/narutoc-eden.md)
 
 ## 🔔 FAQ
 
