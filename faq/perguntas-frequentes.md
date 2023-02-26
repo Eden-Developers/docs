@@ -2,8 +2,6 @@
 description: >-
   Aqui você poderá tirar alguma de suas dúvidas, que são bem frequentes! Caso
   não encontre uma resposta, entre em contato com nosso suporte via Ticket
-cover: ../.gitbook/assets/faq.gif
-coverY: 0
 ---
 
 # 👋 Perguntas frequentes

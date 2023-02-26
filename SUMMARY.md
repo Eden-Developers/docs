@@ -4,8 +4,10 @@
 
 ## ☎ Suporte
 
+* [🐉 Nanatsu Eden](suporte/nanatsu-eden.md)
 * [⛩ Jujutsu Eden](suporte/jujutsu-eden.md)
 * [🥷 NarutoC Eden](suporte/narutoc-eden.md)
+* [📀 DBC Eden](suporte/dbc-eden.md)
 
 ## 🔔 FAQ
 

@@ -13,7 +13,7 @@ coverY: 0
 
 * Site oficial: [https://redeeden.com](https://redeeden.com)
 * Discord: [https://redeeden.com/discord](https://redeeden.com/discord)
-* Koo: [https://redeeden.com/koo](https://www.kooapp.com/profile/redeeden)
+* Twitter: [https://twitter.com/rede\_eden](https://twitter.com/rede\_eden)
 * Instagram: [https://www.instagram.com/networkeden/](https://www.instagram.com/networkeden/)
 {% endhint %}
 
